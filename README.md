@@ -47,6 +47,8 @@ this warning `  error: could not find system library 'webkit2gtk-4.1' required b
 sudo apt-get install -y libwebkit2gtk-4.1-dev build-essential
 ```
 
+More info here: [blog post](https://tauri.app/blog/2023/02/03/tauri-2-0-0-alpha-3/#__docusaurus_skipToContent_fallback).
+
 ### 3. xapp
 
 Also need `xapp` from [docs](
@@ -78,6 +80,8 @@ the 'soup3-sys' crate`.
 ```shell
 sudo apt -y install libsoup-3.0-common
 ```
+
+More info here: [blog post](https://tauri.app/blog/2023/02/03/tauri-2-0-0-alpha-3/#__docusaurus_skipToContent_fallback).
 
 ### 6. Tauri CLI
 <a id="markdown-tauri-cli" name="tauri-cli"></a>
